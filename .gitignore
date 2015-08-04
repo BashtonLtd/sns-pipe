@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Virtual environments
+env/
+env2/
+env3/
